@@ -1,3 +1,5 @@
+teste
+
 # [tabnews.com.br](https://www.tabnews.com.br/)
 
 O [TabNews](https://www.tabnews.com.br/) é um site focado na comunidade da área de tecnologia, destinado a debates e troca de conhecimentos por meio de publicações e comentários criados pelos próprios usuários.
